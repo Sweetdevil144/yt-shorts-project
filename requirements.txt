@@ -1,0 +1,6 @@
+google-api-python-client
+pytube
+apiclient~=1.0.4
+openai
+youtube-transcript-api
+youtube-dl
